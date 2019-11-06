@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d80c9a4c-39ae-4235-9fd6-51fcfd80d5b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/Graph.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/stacksandqueues/QueueWithStacks.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/stacksandqueues/SQExercise5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise1Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GraphTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/stacksandqueues/QueueWithStacksTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/stacksandqueues/SQExercise5Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/BTree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/BTreeTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise2Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/crackingcode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/crackingcode.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/linkedlists/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/linkedlists/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/linkedlists/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/linkedlists/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/stacksandqueues/ThreeStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/stacksandqueues/ThreeStacks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/org/marius/code/linkedlists/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/org/marius/code/linkedlists/LinkedListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/linkedlists/LinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/linkedlists/LinkedList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/stacksandqueues/ThreeStacks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/stacksandqueues/ThreeStacks.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/linkedlists/LinkedListTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/org/marius/code/linkedlists/LinkedListTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/graphsandtrees/GTExercise1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/org/mariusc/code/graphsandtrees/GTExercise1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise1.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -54,61 +50,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/stacksandqueues/MinHeap.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/Graph.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise4.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/682cd7821872d1a3c1e8a3e6bdaabd17f2b71004/kotlin-stdlib-common-1.3.40-sources.jar!/kotlin/text/Strings.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
-              <caret line="126" column="3" selection-start-line="126" selection-start-column="3" selection-end-line="126" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GraphTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="e#40#180#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="104" column="40" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
-              <folding>
-                <element signature="e#41#90#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Collections.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="213" column="12" selection-start-line="213" selection-start-column="12" selection-end-line="213" selection-end-column="12" />
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -116,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise1Test.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            <state relative-caret-position="204">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
               <folding>
                 <element signature="e#40#228#0" expanded="true" />
               </folding>
@@ -126,23 +71,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/AbstractStringAssert.java">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise3Test.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5066">
-              <caret line="319" column="35" selection-start-line="319" selection-start-column="35" selection-end-line="319" selection-end-column="35" />
+            <state relative-caret-position="374">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding>
-                <element signature="e#15122#15123#0" expanded="true" />
-                <element signature="e#15164#15165#0" expanded="true" />
+                <element signature="e#40#210#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/682cd7821872d1a3c1e8a3e6bdaabd17f2b71004/kotlin-stdlib-common-1.3.40-sources.jar!/generated/_Collections.kt">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise2Test.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38998">
-              <caret line="2299" column="10" selection-start-line="2299" selection-start-column="10" selection-end-line="2299" selection-end-column="10" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="e#40#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise4Test.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/Assertions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3315">
+              <caret line="299" column="39" selection-start-line="299" selection-start-column="39" selection-end-line="299" selection-end-column="39" />
+              <folding>
+                <element signature="e#10940#10941#0" expanded="true" />
+                <element signature="e#10999#11000#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/AssertionsForClassTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="149" column="19" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
+              <folding>
+                <element signature="e#5269#5270#0" expanded="true" />
+                <element signature="e#5307#5308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/UriAssert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding>
+                <element signature="e#877#878#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,6 +147,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="782">
               <caret line="46" selection-start-line="45" selection-start-column="9" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/AbstractUriAssert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -174,12 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise1.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise1Test.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise2Test.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise2.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise3.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise3Test.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise4.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise4Test.kt" />
@@ -221,13 +219,22 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/Graph.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise1Test.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise1.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/Tree.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/BTreeExercise1.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/BTreeExercise1Test.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/BTreeExercise2.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise2.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise2Test.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise3.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise3Test.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/BTree.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise4.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -235,7 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,10 +319,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571231076633" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573027955536" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -340,14 +347,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GTExercise1Test.testCase1">
+  <component name="RunManager" selected="JUnit.GTExercise4Test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GTExercise1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GTExercise2Test.useCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="org.mariusc.code.crackingcode.test" />
       <extension name="coverage">
         <pattern>
@@ -356,14 +363,48 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.marius.code.graphsandtrees" />
-      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GTExercise1Test" />
+      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GTExercise2Test" />
+      <option name="METHOD_NAME" value="useCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GTExercise3Test.useCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="org.mariusc.code.crackingcode.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.marius.code.graphsandtrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.marius.code.graphsandtrees" />
+      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GTExercise3Test" />
+      <option name="METHOD_NAME" value="useCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GTExercise4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="org.mariusc.code.crackingcode.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.marius.code.graphsandtrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.marius.code.graphsandtrees" />
+      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GTExercise4Test" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GTExercise1Test.testCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GTExercise4Test.testCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="org.mariusc.code.crackingcode.test" />
       <extension name="coverage">
         <pattern>
@@ -372,7 +413,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.marius.code.graphsandtrees" />
-      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GTExercise1Test" />
+      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GTExercise4Test" />
       <option name="METHOD_NAME" value="testCase1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -380,7 +421,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphTest.testCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GTExercise4Test.testCase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="org.mariusc.code.crackingcode.test" />
       <extension name="coverage">
         <pattern>
@@ -389,41 +430,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.marius.code.graphsandtrees" />
-      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GraphTest" />
-      <option name="METHOD_NAME" value="testCase1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueWithStacksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="org.mariusc.code.crackingcode.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.marius.code.stacksandqueues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.marius.code.stacksandqueues" />
-      <option name="MAIN_CLASS_NAME" value="org.marius.code.stacksandqueues.QueueWithStacksTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SQExercise5Test.testCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="org.mariusc.code.crackingcode.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.marius.code.stacksandqueues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.marius.code.stacksandqueues" />
-      <option name="MAIN_CLASS_NAME" value="org.marius.code.stacksandqueues.SQExercise5Test" />
-      <option name="METHOD_NAME" value="testCase1" />
+      <option name="MAIN_CLASS_NAME" value="org.marius.code.graphsandtrees.GTExercise4Test" />
+      <option name="METHOD_NAME" value="testCase2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -448,11 +456,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GTExercise1Test.testCase1" />
-        <item itemvalue="JUnit.GTExercise1Test" />
-        <item itemvalue="JUnit.GraphTest.testCase1" />
-        <item itemvalue="JUnit.SQExercise5Test.testCase1" />
-        <item itemvalue="JUnit.QueueWithStacksTest" />
+        <item itemvalue="JUnit.GTExercise4Test" />
+        <item itemvalue="JUnit.GTExercise4Test.testCase2" />
+        <item itemvalue="JUnit.GTExercise4Test.testCase1" />
+        <item itemvalue="JUnit.GTExercise3Test.useCase1" />
+        <item itemvalue="JUnit.GTExercise2Test.useCase1" />
       </list>
     </recent_temporary>
   </component>
@@ -470,42 +478,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GTExercise1Test_testCase1 - 2019.10.15 at 16h 15m 00s.xml">
-      <configuration name="GTExercise1Test.testCase1" configurationId="JUnit" />
+    <history-entry file="BTreeExercise1Test_testBinaryTreeOrder - 2019.10.29 at 18h 51m 55s.xml">
+      <configuration name="BTreeExercise1Test.testBinaryTreeOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test_testCase1 - 2019.10.15 at 16h 20m 16s.xml">
-      <configuration name="GTExercise1Test.testCase1" configurationId="JUnit" />
+    <history-entry file="BTreeExercise1Test_testBinaryTreeOrder - 2019.10.29 at 18h 53m 55s.xml">
+      <configuration name="BTreeExercise1Test.testBinaryTreeOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test_testCase1 - 2019.10.15 at 16h 21m 00s.xml">
-      <configuration name="GTExercise1Test.testCase1" configurationId="JUnit" />
+    <history-entry file="BTreeExercise1Test_testBinaryTreeOrder - 2019.10.29 at 18h 54m 13s.xml">
+      <configuration name="BTreeExercise1Test.testBinaryTreeOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test_testCase1 - 2019.10.15 at 16h 24m 35s.xml">
-      <configuration name="GTExercise1Test.testCase1" configurationId="JUnit" />
+    <history-entry file="GTExercise2Test_useCase1 - 2019.10.31 at 10h 20m 09s.xml">
+      <configuration name="GTExercise2Test.useCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GraphTest_testCase1 - 2019.10.15 at 16h 25m 18s.xml">
-      <configuration name="GraphTest.testCase1" configurationId="JUnit" />
+    <history-entry file="GTExercise2Test_useCase1 - 2019.10.31 at 10h 24m 26s.xml">
+      <configuration name="GTExercise2Test.useCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test_testCase1 - 2019.10.15 at 16h 25m 27s.xml">
-      <configuration name="GTExercise1Test.testCase1" configurationId="JUnit" />
+    <history-entry file="GTExercise2Test_useCase1 - 2019.10.31 at 11h 07m 08s.xml">
+      <configuration name="GTExercise2Test.useCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test_testCase1 - 2019.10.15 at 16h 26m 04s.xml">
-      <configuration name="GTExercise1Test.testCase1" configurationId="JUnit" />
+    <history-entry file="GTExercise3Test_useCase1 - 2019.10.31 at 15h 52m 04s.xml">
+      <configuration name="GTExercise3Test.useCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test_testCase1 - 2019.10.15 at 16h 35m 09s.xml">
-      <configuration name="GTExercise1Test.testCase1" configurationId="JUnit" />
+    <history-entry file="GTExercise3Test_useCase1 - 2019.10.31 at 15h 52m 26s.xml">
+      <configuration name="GTExercise3Test.useCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test - 2019.10.16 at 14h 36m 37s.xml">
-      <configuration name="GTExercise1Test" configurationId="JUnit" />
+    <history-entry file="GTExercise3Test_useCase1 - 2019.10.31 at 15h 53m 12s.xml">
+      <configuration name="GTExercise3Test.useCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GTExercise1Test - 2019.10.16 at 15h 03m 36s.xml">
-      <configuration name="GTExercise1Test" configurationId="JUnit" />
+    <history-entry file="GTExercise3Test_useCase1 - 2019.10.31 at 15h 53m 26s.xml">
+      <configuration name="GTExercise3Test.useCase1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3190272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,16 +521,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32771084" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -622,6 +629,12 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-field">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/BTree.kt</url>
+          <line>8</line>
+          <properties myFieldName="root" myClassName="org.mariusc.code.graphsandtrees.BTree" />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -630,113 +643,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise3Test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#42#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise4Test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise6.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise7Test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#42#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise6Test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#42#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/Assertions.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/text/StringsJVM.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5338">
-          <caret line="322" column="26" selection-start-line="322" selection-start-column="26" selection-end-line="322" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise7.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise8.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise8Test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="e#42#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/arraysandstrings/ASExercise9.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/arraysandstrings/ASExercise9Test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="e#41#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/linkedlists/LLExercise1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -775,13 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Unit.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Unit.kt" />
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/linkedlists/LLExercise1Test.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -910,13 +810,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Array.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Array.kt" />
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/linkedlists/LinkedListTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -938,34 +832,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/682cd7821872d1a3c1e8a3e6bdaabd17f2b71004/kotlin-stdlib-common-1.3.40-sources.jar!/generated/_Collections.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Collections.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/stacksandqueues/MinHeap.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/Graph.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/682cd7821872d1a3c1e8a3e6bdaabd17f2b71004/kotlin-stdlib-common-1.3.40-sources.jar!/kotlin/text/Strings.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="126" column="3" selection-start-line="126" selection-start-column="3" selection-end-line="126" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GraphTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#40#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -980,10 +852,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/682cd7821872d1a3c1e8a3e6bdaabd17f2b71004/kotlin-stdlib-common-1.3.40-sources.jar!/generated/_Collections.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/Graph.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38998">
-          <caret line="2299" column="10" selection-start-line="2299" selection-start-column="10" selection-end-line="2299" selection-end-column="10" />
+        <state relative-caret-position="323">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GraphTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#40#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3723">
+          <caret line="248" column="25" selection-start-line="248" selection-start-column="25" selection-end-line="248" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/682cd7821872d1a3c1e8a3e6bdaabd17f2b71004/kotlin-stdlib-common-1.3.40-sources.jar!/kotlin/text/Strings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8296">
+          <caret line="491" selection-start-line="491" selection-end-line="491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Comparable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/BTreeTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#40#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/BTree.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#41#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Library.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/Assertions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="299" column="39" selection-start-line="299" selection-start-column="39" selection-end-line="299" selection-end-column="39" />
+          <folding>
+            <element signature="e#10940#10941#0" expanded="true" />
+            <element signature="e#10999#11000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/AssertionsForClassTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="149" column="19" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
+          <folding>
+            <element signature="e#5269#5270#0" expanded="true" />
+            <element signature="e#5307#5308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/UriAssert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -994,29 +978,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/7af6fd6b9293e80fc7408493a764858a7f66b022/kotlin-stdlib-1.3.40-sources.jar!/kotlin/Collections.kt">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.13.2/616a8ca81b9a1a58e3c8cd8c5d7395eb548ce57/assertj-core-3.13.2-sources.jar!/org/assertj/core/api/AbstractUriAssert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="213" column="12" selection-start-line="213" selection-start-column="12" selection-end-line="213" selection-end-column="12" />
+        <state relative-caret-position="187">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise1Test.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        <state relative-caret-position="204">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
             <element signature="e#40#228#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/mariusc/code/graphsandtrees/GTExercise1.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise3Test.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="104" column="40" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
+        <state relative-caret-position="374">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding>
-            <element signature="e#41#90#0" expanded="true" />
+            <element signature="e#40#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/org/marius/code/graphsandtrees/GTExercise2Test.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#40#167#0" expanded="true" />
           </folding>
         </state>
       </provider>

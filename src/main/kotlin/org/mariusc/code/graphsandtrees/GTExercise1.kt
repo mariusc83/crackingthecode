@@ -1,6 +1,5 @@
 package org.mariusc.code.graphsandtrees
 
-import java.lang.StringBuilder
 import java.util.*
 
 
@@ -56,39 +55,6 @@ fun <T> Graph<T>.findPath(from: T, to: T): String {
     return ""
 
 }
-
-//private fun <T> formThePath(
-//    it: T,
-//    visitedRight: MutableMap<T, T?>,
-//    visitedLeft: MutableMap<T, T?>
-//): String {
-//    return pathToLeft(it, visitedLeft).joinToString(" - ") + " - " + pathToRight(it, visitedRight).joinToString(" - ")
-//}
-//
-//private fun <T> pathToRight(from: T, visited: Map<T, T?>): LinkedList<T> {
-//    val paths = LinkedList<T>()
-//
-//    paths.add(from)
-//    var previous = visited[from]
-//    while (previous != null) {
-//        paths.add(previous)
-//        previous = visited[previous]
-//    }
-//
-//    return paths
-//}
-//
-//private fun <T> pathToLeft(from: T, visited: Map<T, T?>): LinkedList<T> {
-//    val paths = LinkedList<T>()
-//
-//    var previous = visited[from]
-//    while (previous != null) {
-//        paths.addFirst(previous)
-//        previous = visited[previous]
-//    }
-//
-//    return paths
-//}
 
 private fun <T> path(from: T, visitedLeft: Map<T, T?>, visitedRight: Map<T, T?>): String {
     var path = "$from"
