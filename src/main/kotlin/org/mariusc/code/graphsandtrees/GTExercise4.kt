@@ -18,17 +18,3 @@ fun BTree<Int>.isBalanced(): Boolean {
 
     return true
 }
-
-
-private fun nodeHeight(forNode: BTree.Node<Int>?, memo: HashMap<BTree.Node<Int>, Int>): Int {
-    if (forNode == null) {
-        return -1
-    }
-    if (memo.containsKey(forNode)) {
-        return memo[forNode]!!
-    }
-
-    val nodeHeight = Math.max(nodeHeight(forNode.left, memo), nodeHeight(forNode.right, memo)) + 1
-    memo.put(forNode, nodeHeight)
-    return nodeHeight
-}

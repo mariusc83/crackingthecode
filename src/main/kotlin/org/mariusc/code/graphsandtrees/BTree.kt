@@ -66,5 +66,18 @@ class BTree<T : Comparable<T>> {
         return stringBuilder.toString().trim()
     }
 
+    fun nodeHeight(forNode: BTree.Node<T>?, memo: HashMap<BTree.Node<T>, Int>): Int {
+        if (forNode == null) {
+            return -1
+        }
+        if (memo.containsKey(forNode)) {
+            return memo[forNode]!!
+        }
+
+        val nodeHeight = Math.max(nodeHeight(forNode.left, memo), nodeHeight(forNode.right, memo)) + 1
+        memo.put(forNode, nodeHeight)
+        return nodeHeight
+    }
+
     data class Node<T>(val value: T, var left: Node<T>? = null, var right: Node<T>? = null)
 }
