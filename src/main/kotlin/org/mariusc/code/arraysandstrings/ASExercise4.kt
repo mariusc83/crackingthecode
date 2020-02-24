@@ -1,5 +1,6 @@
 package org.mariusc.code.arraysandstrings
 
+
 fun String.hasAPalyndromePermutation(): Boolean {
     forEachIndexed { index: Int, c: Char ->
         if (perms(c.toString(), this.removeRange(index, index + 1))) {
